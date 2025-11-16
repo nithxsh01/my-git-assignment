@@ -1,1 +1,2 @@
 Hello GitHub
+Appended new line to file1
